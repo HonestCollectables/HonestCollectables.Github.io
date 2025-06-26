@@ -47,7 +47,7 @@ Honest Collectables is a highly rated eBay small business, that primarily sells 
 </head>
 <body>
     <header>
-        <h1>Welcome to My Static Website</h1>
+        <h1>Honest Collectables Trading Cards</h1>
     </header>
     <nav>
         <a href="#about">About</a>
