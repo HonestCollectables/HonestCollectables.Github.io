@@ -57,15 +57,15 @@ Honest Collectables is a highly rated eBay small business, that primarily sells 
     <main>
         <section id="about">
             <h2>About Us</h2>
-            <p>This is a simple static website created using HTML and CSS. It’s lightweight and easy to customize!</p>
+            <p>Honest Collectables is a highly rated eBay small business, that primarily sells sports cards and other trading cards. We are also currently open to your consignment needs, if you do not have the time or store reputation available to sell easily for yourself. We take much care in our services and intend to fulfill your orders with integrity and care. We thank you for your interest and business in our sports card selections!</p>
         </section>
         <section id="services">
             <h2>Our Services</h2>
-            <p>We offer a variety of services to meet your needs. Stay tuned for updates!</p>
+            <p>We are currently selling and offering consignment on three platform. eBay, WhatNot, and BuySportsCasrd.com</p>
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
-            <p>Email us at <a href="mailto:info@example.com">info@example.com</a>.</p>
+            <p>Email us at <a href="RM.Louderback@outlook.com">info@example.com</a>.</p>
         </section>
     </main>
     <footer>
