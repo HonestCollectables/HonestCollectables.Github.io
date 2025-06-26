@@ -65,7 +65,7 @@ Honest Collectables is a highly rated eBay small business, that primarily sells 
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
-            <p>Email us at <a href="RM.Louderback@outlook.com">info@example.com</a>.</p>
+            <p>Email us at <a href="RM.Louderback@outlook.com">RM.Louderback@outlook.com</a>.</p>
         </section>
     </main>
     <footer>
