@@ -59,7 +59,7 @@
         </section>
         <section id="services">
             <h2>Our Services</h2>
-            <p>We are currently selling and offering consignment on three platform. eBay, WhatNot, and BuySportsCasrd.com</p>
+            <p>We are currently selling and offering consignment on three platform. eBay, WhatNot, and BuySportsCards.com</p>
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
