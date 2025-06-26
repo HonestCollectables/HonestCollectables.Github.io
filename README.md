@@ -4,7 +4,7 @@ Honest Collectables is a highly rated eBay small business, that primarily sells 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Static Website</title>
+    <title>Honest Collectables Trading Cards</title>
     <style>
         body {
             font-family: Arial, sans-serif;
