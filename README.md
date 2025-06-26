@@ -1,4 +1,4 @@
-Here’s a simple example of a static website using HTML. This is a basic structure that you can expand upon to suit your needs:
+Honest Collectables is a highly rated eBay small business, that primarily sells sports cards and other trading cards. We are also currently open to your consignment needs, if you do not have the time or store reputation available to sell easily for yourself. We take much care in our services and intend to fulfill your orders with integrity and care. We thank you for your interest and business in our sports card selections!
 
 Copy the code
 <!DOCTYPE html>
