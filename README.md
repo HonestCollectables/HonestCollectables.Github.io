@@ -59,7 +59,7 @@
         </section>
            <nav>
         <a href="#eBay">About</a>
-        <a href="#[services](https://www.whatnot.com/user/honestcollectables)">Services</a>
+        <a href="#[services](https://www.whatnot.com/user/honestcollectables)">WhatNot</a>
         <a href="#contact">Contact</a>
     </nav>
         <section id="services">
