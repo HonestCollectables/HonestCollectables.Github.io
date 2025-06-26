@@ -60,7 +60,7 @@
            <nav>
         <a href="#https://ebay.us/m/S9C4lI">eBay</a>
         <a href="#https://www.whatnot.com/user/honestcollectables">WhatNot</a>
-        <a href="#contact">Contact</a>
+        <a href="#contact">BuySportsCards.Com</a>
     </nav>
         <section id="services">
             <h2>Our Services</h2>
